@@ -1,5 +1,5 @@
 # ryseperformance-profile-card
 
-A profile card created for ryseperformance training.
+A responsive profile card created for ryseperformance brand using HTML/CSS
 
 Source - CodingLab
